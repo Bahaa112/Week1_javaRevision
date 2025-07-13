@@ -30,6 +30,8 @@ public class Main {
         int res = functionalInterface3.add(10,4);
         System.out.println(res);
 
+        System.out.println("Test for github");
+
 
 
 
